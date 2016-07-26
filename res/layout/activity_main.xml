@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.view.example.ScrollerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#CCCCCC" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）
+            如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）
+            如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）
+            如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）
+            如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）
+            如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）
+            如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）
+            如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）
+            如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）如果某个Activity中实现OnTouchListener接口，需要重写onTouch(View view，MotionEvent event)这个方法，getRawX()和getRawY()获得的是相对屏幕的位置，getX()和getY()获得的永远是相对view的触摸位置坐标（这两个值不会超过view的长度和宽度）" />
+    </com.view.example.ScrollerView>
+
+</RelativeLayout>
